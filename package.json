@@ -1,0 +1,24 @@
+{
+  "name": "week2",
+  "version": "1.0.0",
+  "description": "demo connect",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaujla55/COMP308-w2017-Lesson2B.git"
+  },
+  "author": "amandeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaujla55/COMP308-w2017-Lesson2B/issues"
+  },
+  "homepage": "https://github.com/aaujla55/COMP308-w2017-Lesson2B#readme"
+}
